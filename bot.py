@@ -2,7 +2,7 @@ import asyncio
 import json
 from rubika_bot_api.api import Robot
 
-TOKEN = "توکن_ربات_خودت"
+TOKEN = "BHIDFC0YJPMRIWXBIHCWQKCHLXRQTKLKPLOISTWWDJTRBXALRLOGWWPPXSRQSAFQ"
 
 bot = Robot(token=TOKEN)
 
